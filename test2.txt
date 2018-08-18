@@ -1,0 +1,12 @@
+ Le volume dans le lecteur E s?appelle DATA-2
+ Le num‚ro de s‚rie du volume est 0671-CBFC
+
+ R‚pertoire de E:\00001\MyGitProject
+
+2018-08-18  15:54    <REP>          .
+2018-08-18  15:54    <REP>          ..
+2018-08-16  23:02                31 index.htm
+2018-08-18  14:06                30 test.txt
+2018-08-18  15:54                 0 test2.txt
+               3 fichier(s)               61 octets
+               2 R‚p(s)  42ÿ686ÿ783ÿ488 octets libres
